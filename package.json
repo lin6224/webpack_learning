@@ -1,0 +1,20 @@
+{
+  "name": "learning webpack",
+  "version": "1.0.0",
+  "description": "to learn how to use webpack",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "keywords": [
+    "webpack"
+  ],
+  "author": "Jae",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0"
+  }
+}
